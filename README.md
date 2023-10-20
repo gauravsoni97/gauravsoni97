@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Soni</h1>
 <h3 align="center">A passionate frontend developer from India </h3>
 
-- 🔭 I’m currently working on **Zomato website clone**
-
 - 🌱 I’m currently learning **NextJs and ReactJs**
 
 - 🤝 I’m looking for help with **NextJs and Advance ReactJs**
