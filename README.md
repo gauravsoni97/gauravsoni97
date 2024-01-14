@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **gauravsoni8414@gmail.com**
 
-- 📄 Know about my experiences [https://thegauravsoni.netlify.app/](https://thegauravsoni.netlify.app/)
-
 - ⚡ Fun fact **A Non-tech guy dived into technical things**
 
 <h3 align="left">Connect with me:</h3>
