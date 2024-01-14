@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NextJs and ReactJs**
 
-- 👨‍💻 All of my projects are available at [https://thegauravsoni.netlify.app/portfolio](https://thegauravsoni.netlify.app/portfolio)
+- 👨‍💻 All of my projects are available at [https://thegauravsoni.netlify.app/](https://thegauravsoni.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Sass, Tailwind CSS, Material UI, Firebase, and WordPress**
 
